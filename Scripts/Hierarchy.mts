@@ -1,0 +1,2 @@
+Test Hierarchy_MenuDissappearsInItemSelection Run
+Test Hiararchy_TextDissappearsOnRotatingSmallScreens Run

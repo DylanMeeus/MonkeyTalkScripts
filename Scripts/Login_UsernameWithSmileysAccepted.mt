@@ -3,3 +3,5 @@ Input username enterText â˜ºðŸ˜ŠðŸ˜€ðŸ˜� %thinktime=1000
 Input password tap
 Input password enterText azert %thinktime=1000
 Button LOGIN tap down %thinktime=1000 %shouldfail=true
+Device *  Screenshot
+Button LOGOUT tap

@@ -1,0 +1,4 @@
+Test Login_ValidDetails Run
+Test Login_FailsIfUsernameLessThan4c Run
+Test Login_FailsIfPasswordLessthan4c Run
+Test Login_UsernameWithSmileysAccepted Run

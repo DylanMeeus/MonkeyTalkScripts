@@ -4,3 +4,4 @@ Input password tap
 Input password enterText Password %thinktime=1000
 Button LOGIN tap down %thinktime=1000
 Label * Verify "Sorry! Username must be 4 or more characters."
+Device * Screenshot
